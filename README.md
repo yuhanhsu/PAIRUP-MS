@@ -12,6 +12,10 @@ All scripts were tested using R v3.2 or Python v2.7. The R scripts make use of t
 
 Memory and run time will depend on the size of your datasets. For reference, for our largest dataset (containing ~580 samples and ~15,000 metabolite signals), DataProcessing scripts took a total of ~1 day to run, ImputationMatching took < 10 hours, and PathwayAnalysis took ~2 days (with “ConstructAnnotationMatrix.py” taking most of the time). Maximum memory requirement was < 14 GB.
 
+# Citation
+
+Hsu, YH et al. 2017. PAIRUP-MS: Pathway Analysis and Imputation to Relate Unknowns in Profiles from Mass Spectrometry-based metabolite data. bioRxiv doi: 10.1101/209577. [link](https://www.biorxiv.org/content/early/2017/11/08/209577)
+
 # Troubleshooting
 
 Please contact Yu-Han Hsu (yuhanhsu@fas.harvard.edu) with a brief description of your problem.
