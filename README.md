@@ -14,7 +14,7 @@ Memory and run time will depend on the size of your datasets. For reference, for
 
 # Citation
 
-Hsu, YH et al. 2017. PAIRUP-MS: Pathway Analysis and Imputation to Relate Unknowns in Profiles from Mass Spectrometry-based metabolite data. bioRxiv doi: 10.1101/209577. [link](https://www.biorxiv.org/content/early/2017/11/08/209577)
+Hsu, YH et al. PAIRUP-MS: Pathway Analysis and Imputation to Relate Unknowns in Profiles from Mass Spectrometry-based metabolite data. bioRxiv (2017). doi: 10.1101/209577. [link](https://www.biorxiv.org/content/early/2017/11/08/209577)
 
 # Troubleshooting
 
