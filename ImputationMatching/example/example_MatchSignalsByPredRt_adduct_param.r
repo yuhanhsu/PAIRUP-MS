@@ -22,6 +22,8 @@ metMapFile <- "example_shared_knowns.txt"
 # parameters for matching m/z values
 mzWindow <- 0.005
 mzMode <- "adduct" # "noAdduct" or "adduct"
+posAdducts <- c(0,1.007276,18.033823,22.989218) # list of POS adducts to consider (each value corresponds to mass of X in M+X: M, M+H, M+NH4, M+Na)
+negAdducts <- c(-1.007276) # list of NEG adducts to consider (e.g. M-H adduct ion)
 
 
 ### Output Files

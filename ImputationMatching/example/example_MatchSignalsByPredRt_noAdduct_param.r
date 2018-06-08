@@ -22,6 +22,8 @@ metMapFile <- "example_shared_knowns.txt"
 # parameters for matching m/z values
 mzWindow <- 0.005
 mzMode <- "noAdduct" # "noAdduct" or "adduct"
+posAdducts <- NA # does not consider adducts for "noAdduct" mode
+negAdducts <- NA # does not consider adducts for "noAdduct" mode
 
 
 ### Output Files

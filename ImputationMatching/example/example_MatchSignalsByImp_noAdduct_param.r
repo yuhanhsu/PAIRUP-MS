@@ -31,6 +31,8 @@ out_impFile2 <- "example_imp_data_2.txt"
 # parameters for matching m/z values
 mzWindow <- 0.005 # error window for calling two values to be identical
 mzMode <- "noAdduct" # whether to check for alternative adduct ions: "noAdduct" (no) or "adduct" (yes)
+posAdducts <- NA # does not consider adducts for "noAdduct" mode
+negAdducts <- NA # does not consider adducts for "noAdduct" mode
 
 
 ### Output Files

@@ -4,13 +4,13 @@ PAIRUP-MS (Pathway Analysis and Imputation to Relate Unknowns in Mass Spectromet
 
 # Documentation
 
-Most current documentation with toy example: [PAIRUP-MS_v1.0_Documentation.pdf](PAIRUP-MS_v1.0_Documentation.pdf)
+Most current documentation with toy example: [PAIRUP-MS_v1.1_Documentation.pdf](PAIRUP-MS_v1.1_Documentation.pdf)
 
 # Software and Hardware Requirements
 
 All scripts were tested using R v3.2 or Python v2.7. The R scripts make use of the following R packages (and their dependencies): moments (v0.14), lawstat (v3.0), plyr (v1.8.4), mice (v2.25), abind (v1.4-3), ggplot2 (v2.2.1), and ROCR (v1.0-7). Some Python scripts require scipy (v0.16.0).
 
-Memory and run time will depend on the size of your datasets. For reference, for our largest dataset (containing ~580 samples and ~15,000 metabolite signals), DataProcessing scripts took a total of ~1 day to run, ImputationMatching took < 10 hours, and PathwayAnalysis took ~2 days (with “ConstructAnnotationMatrix.py” taking most of the time). Maximum memory requirement was < 14 GB.
+Memory and run time will depend on the size of your datasets. For reference, for our largest dataset (containing ~580 samples and ~15,000 metabolite signals), DataProcessing scripts took a total of ~1 day to run, ImputationMatching took < 12 hours, and PathwayAnalysis took ~2 days (with “ConstructAnnotationMatrix.py” taking most of the time). Maximum memory requirement was < 14 GB.
 
 # Citation
 
@@ -18,4 +18,4 @@ Hsu, YH et al. PAIRUP-MS: Pathway Analysis and Imputation to Relate Unknowns in 
 
 # Troubleshooting
 
-Please contact Yu-Han Hsu (yuhanhsu@fas.harvard.edu) with a brief description of your problem.
+Please contact Yu-Han Hsu (yuhanhsu@broadinstitute.org) with a brief description of your problem.
