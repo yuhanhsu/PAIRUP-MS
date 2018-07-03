@@ -4,7 +4,7 @@ PAIRUP-MS (Pathway Analysis and Imputation to Relate Unknowns in Mass Spectromet
 
 # Documentation
 
-Most current documentation with toy example: [PAIRUP-MS_v1.1_Documentation.pdf](PAIRUP-MS_v1.1_Documentation.pdf)
+Most current documentation with toy example: [PAIRUP-MS_v1.2_Documentation.pdf](PAIRUP-MS_v1.2_Documentation.pdf)
 
 # Software and Hardware Requirements
 
